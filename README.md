@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=<videoID>
 To use this proxy, simply access the the server URL and pass the `<videoID>` as a part of the URL as following:
 
 ```
-http://<server-ip-or-adress>/<videoID>
+http://<server-ip-or-hostname>/<videoID>
 ```
